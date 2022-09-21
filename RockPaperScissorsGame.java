@@ -1,9 +1,9 @@
 /*
 * This program runs Rock Paper Scissors.
 *
-* @author  Aidan Lalonde-Novales
+* @author  Devin Jhu
 * @version 1.0
-* @since   2020-09-18
+* @since   2020-09-20
 */
 
 import java.util.Scanner;
